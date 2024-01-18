@@ -1,0 +1,5 @@
+number = int(input('Anna kokonaisluku:'))
+number2 = int(input('Anna toinen kokonaisluku:'))
+print("Summa =", number + number2)
+print("Erotus =", number - number2)
+print("Tulo =", number * number2)

@@ -1,0 +1,8 @@
+p1 = int(input('Anna sademäärä: '))
+p2 = int(input('Anna sademäärä: '))
+p3 = int(input('Anna sademäärä: '))
+p4 = int(input('Anna sademäärä: '))
+p5 = int(input('Anna sademäärä: '))
+p6 = int(input('Anna sademäärä: '))
+p7 = int(input('Anna sademäärä: '))
+print("Sademäärä yhteensä: ", p1 + p2 + p3 + p4 + p5 + p6 + p7)
